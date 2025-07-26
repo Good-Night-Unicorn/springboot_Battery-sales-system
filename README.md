@@ -1,4 +1,4 @@
-<img width="1248" height="670" alt="图片" src="https://github.com/user-attachments/assets/7803b1ce-b715-4d82-ba15-b02c7ac3405a" />## 基于Springboot+vue的电池销售系统(源代码+LW+数据库)
+## 基于Springboot+vue的电池销售系统(源代码+LW+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
